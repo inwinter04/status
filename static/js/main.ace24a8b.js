@@ -10360,7 +10360,7 @@
 									text: "UptimeRobot"
 								}), " \u63a5\u53e3\u5236\u4f5c\uff0c\u68c0\u6d4b\u9891\u7387 5 \u5206\u949f"]
 							}), (0, i.jsxs)("p", {
-								children: ["\xa9 2020 ", (0, i.jsx)(l, {
+								children: ["\xa9 2022 ", (0, i.jsx)(l, {
 									to: "https://www.iamdt.cn/",
 									text: "\u51ac\u5929\u7684\u5c0f\u7a9d"
 								}), ", Version ", xn]
