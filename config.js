@@ -18,12 +18,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: '博客',
       url: 'https://www.iamdt.cn/'
     },
     {
-      text: 'Pages',
-      url: 'https://pages.iamdt.cn/'
+      text: '导航',
+      url: 'https://nav.iamdt.cn/'
     },
     {
       text: 'GitHub',
